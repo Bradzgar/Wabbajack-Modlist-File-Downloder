@@ -42,7 +42,7 @@ A Python script designed to streamline the download of Nexus Mods files using th
     ```
 
 2.  **Store Your API Key:** Open `key.txt` and paste your Nexus Mods Public API Key directly into it. Save and close the file.
-    *   **CRITICAL SECURITY NOTE:** Never commit your `key.txt` file to a public GitHub repository or share it! It contains sensitive information. We have added `.gitignore` (below) to help prevent this.
+    *   **CRITICAL SECURITY NOTE:** Never commit your `key.txt` file to a public GitHub repository or share it! It contains sensitive information. I have added `.gitignore` to help prevent this.
       
 3. Pip install dependencies.
 
