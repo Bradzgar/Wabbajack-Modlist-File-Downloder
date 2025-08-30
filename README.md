@@ -4,7 +4,7 @@ A Python script designed to streamline the download of Nexus Mods files using th
 
 This script was created out of a need to acquire specific mod files from a wabbajack modlist to fix my broken modlist. Since the modlist curator doesn't provide some of the direct links to download specific patches. 
 
-Note that this script works as of writing this 8/29/2025 unless nexusmods updates or changes API endpoints. I will try to keep this script current with any nexusmods updates but that is largely dependant on my need to use the script.
+Note that this script works as of writing this 8/29/2025 unless nexusmods updates or changes API endpoints or if wabbajack changes json key structure. I will try to keep this script current with any nexusmods updates but that is largely dependant on my need to use the script.
 
 ## Features
 
