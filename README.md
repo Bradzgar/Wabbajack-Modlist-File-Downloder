@@ -2,6 +2,8 @@
 
 A Python script designed to streamline the download of Nexus Mods files using the Nexus Mods API. This tool supports both manual single file downloads and automated bulk downloads by parsing Wabbajack modlist JSON files, complete with progress bars.
 
+This script was created out of a need to acquire specific mod files from a wabbajack modlist to fix my broken modlist. Since the modlist curator doesn't provide some of the direct links to download specific patches. 
+
 ## Features
 
 *   **Nexus Mods API Integration:** Directly fetches temporary download links from Nexus Mods (requires an API key).
