@@ -31,7 +31,7 @@ This script was created out of a need to acquire specific mod files from a wabba
 
 1.  **Log in to Nexus Mods:** Go to [nexusmods.com](https://www.nexusmods.com) and log in to your account.
 2.  **Access API Keys:** Navigate to your user profile settings. You can usually find the API key section under "Nexus API" or "My API Keys".
-    *   Direct link: [https://www.nexusmods.com/users/myaccount?tab=api](https://www.nexusmods.com/users/myaccount?tab=api)
+    *   Direct link: [https://www.nexusmods.com/users/myaccount?tab=api](https://www.nexusmods.com/users/myaccount?tab=api) Scroll to the very bottom to generate a key.
 3.  **Generate a Public Key:** Look for a section to generate a "Public Key" or "API Key". Copy this key.
     *   **Important:** This key grants programmatic access to certain Nexus Mods features tied to your account. Treat it like a password.
 
