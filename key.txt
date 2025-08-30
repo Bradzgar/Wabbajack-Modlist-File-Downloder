@@ -1,0 +1,1 @@
+##PASTE NEXUS PUBLIC API KEY HERE (keep this file in root directory)##
